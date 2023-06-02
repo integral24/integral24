@@ -2,7 +2,7 @@
   WELCOME TO MY PAGE!
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h2>
-<img src="./img.png" />
+<img src="./bg.png" />
 
 <h4>
   { FRONTEND: 'React Interface Development' }
