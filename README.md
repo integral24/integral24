@@ -1,9 +1,12 @@
-<h1 align="center">
+<h2 align="center">
   WELCOME TO MY PAGE!
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-</h1>
+</h2>
 <img src="./img.png" />
 
+<h4>
+  { FRONTEND: 'React Interface Development' }
+</h4>
 <br/>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
