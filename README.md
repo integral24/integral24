@@ -5,7 +5,7 @@
 <img src="./bg.png" />
 
 <h4>
-  {{ specialization: 'React Interface Developer' }}
+  { specialization: 'React Interface Developer' }
 </h4>
 <br/>
 
