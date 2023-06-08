@@ -25,4 +25,4 @@
 
 <br/>
 
-[![codewars](https://www.codewars.com/users/integral24/badges/small)](https://www.codewars.com/users/integral24)
+[![codewars](https://www.codewars.com/users/integral24/badges/large)](https://www.codewars.com/users/integral24)
