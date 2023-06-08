@@ -1,11 +1,11 @@
-<h2 align="center">
+<h3 align="center">
   WELCOME TO MY PAGE!
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-</h2>
+</h3>
 <img src="./bg.png" />
 
 <h4>
-  { specialization: 'React Interface Developer' }
+  { specialization: 'Frontend-Developer' }
 </h4>
 <br/>
 
