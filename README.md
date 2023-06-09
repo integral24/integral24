@@ -1,12 +1,10 @@
 <h3 align="center">
-  WELCOME TO MY PAGE!
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+  WELCOME TO MY HUB!
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="22"/>
 </h3>
 <img src="./bg_v3.png" />
 
-<h4>
-  { specialization: 'Frontend developer' }
-</h4>
+<br/>
 <br/>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
