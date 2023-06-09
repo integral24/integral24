@@ -5,7 +5,7 @@
 <img src="./bg.png" />
 
 <h4>
-  { specialization: 'Frontend-Developer' }
+  { specialization: 'frontend developer' }
 </h4>
 <br/>
 
