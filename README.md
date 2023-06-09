@@ -2,7 +2,7 @@
   WELCOME TO MY HUB!
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="22"/>
 </h3>
-<img src="./bg_v3.png" />
+<img src="./bg_v5.png" />
 
 <br/>
 <br/>
