@@ -2,7 +2,7 @@
   WELCOME TO MY PAGE!
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h3>
-<img src="./bg.png" />
+<img src="./bg_v3.png" />
 
 <h4>
   { specialization: 'Frontend developer' }
